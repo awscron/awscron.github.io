@@ -1,6 +1,6 @@
 document.addEventListener("DOMContentLoaded", function () {
     // API endpoint URL
-    const apiUrl = "http://localhost:8080/api/greeting"; // Example API URL
+    const apiUrl = "http://hamdi.com:8080/api/greeting"; // Example API URL
 
     // Target element to display the API response
     const apiResponseElement = document.getElementById("apiResponse");
